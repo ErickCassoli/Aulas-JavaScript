@@ -1,6 +1,6 @@
 var button = document.getElementById("btnCalcular");
 var resultLocale = document.getElementById("result")
-var res = 1;
+
 button.addEventListener("click", clickar);
 
 function clickar(){
