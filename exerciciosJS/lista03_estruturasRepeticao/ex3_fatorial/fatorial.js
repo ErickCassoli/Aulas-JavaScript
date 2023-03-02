@@ -11,6 +11,4 @@ function clickar(){
       res *= i;
     }
     resultLocale.innerText = res
-    
 }
-
